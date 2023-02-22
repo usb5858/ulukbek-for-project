@@ -1,0 +1,12 @@
+.article {
+    background-color: #2e7293;
+    font-size: 30px;
+    width: 350px;
+    margin-top: 20px; 
+    padding-top: 100;
+    [target=blank]
+
+}
+.name{
+    background-color: red;
+}

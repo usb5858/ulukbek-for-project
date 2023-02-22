@@ -1,0 +1,43 @@
+h3{
+    background-color: #D2FFDA;
+    padding: 20px;
+}
+h1{
+ color: #309bc2; 
+}
+body{
+    background-color: #bbd379;
+    margin: 50px 500px 50px 50px;
+}
+img{
+    width: 500px;
+    height: 300px;
+}
+.ll {
+    background-color: #6a3509;
+    color: white;
+    padding: 20px 20px 20px 5px; 
+}
+.mm {
+    background-color:  #6a3509;
+    color: white;
+    padding: 20px 20px 20px 20px;
+}
+
+.nn {
+    background-color:  #6a3509;
+    color: white;    
+    padding: 20px 20px 20px 5px;
+
+}
+th {
+    width: 10px;
+    border-bottom: 1px solid white;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+tr {
+    color: white;
+}
+
